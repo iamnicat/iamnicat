@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 
 -->
 
-[linkedin]: www.linkedin.com/in/nicathaciyev
+[linkedin]: https://linkedin.com/in/nicathaciyev
 [twitter]: https://twitter.com/HajiyevNicat
