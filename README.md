@@ -15,7 +15,7 @@ I am a Flutter Developer in Baku, Azerbaijan. I have 1+ years in deep expertise 
 ### Connect with me:
 
 [![GitHub](https://img.shields.io/github/followers/iamnicat?style=social)](https://github.com/iamnicat)
-[<img align="left" alt="iamnicat | LinkedIn" width="22px" src="https://img.icons8.com/color/144/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="iamnicat | LinkedIn" width="44px" src="https://img.icons8.com/color/144/000000/linkedin.png" />][linkedin]
 
 
 
