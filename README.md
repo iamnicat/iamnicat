@@ -13,9 +13,13 @@ I am a Flutter Developer in Baku, Azerbaijan. I have 1+ years in deep expertise 
 
 
 ### Connect with me:
+[<img align="left" alt="iamnicat | LinkedIn" width="32px" src="https://img.icons8.com/color/144/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="iamnicat | LinkedIn" width="32px" src="https://img.icons8.com/cotton/128/000000/twitter.png" />][twitter]
 
 [![GitHub](https://img.shields.io/github/followers/iamnicat?style=social)](https://github.com/iamnicat)
-[<img align="left" alt="iamnicat | LinkedIn" width="32px" src="https://img.icons8.com/color/144/000000/linkedin.png" />][linkedin]
+
+
+
 
 
 
@@ -39,3 +43,4 @@ Here are some ideas to get you started:
 -->
 
 [linkedin]: "www.linkedin.com/in/nicathaciyev"
+[linkedin]: "https://twitter.com/HajiyevNicat"
