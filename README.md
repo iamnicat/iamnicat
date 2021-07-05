@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 -->
 
 [linkedin]: "www.linkedin.com/in/nicathaciyev"
-[linkedin]: "https://twitter.com/HajiyevNicat"
+[twitter]: "https://twitter.com/HajiyevNicat"
