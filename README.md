@@ -9,8 +9,10 @@ I am a Flutter Developer in Baku, Azerbaijan. I have 1+ years in deep expertise 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnicat&show_icons=true&theme=radical)](https://github.com/iamnicat/iamnicat)
-
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnicat&show_icons=true&theme=radical)](https://github.com/iamnicat/iamnicat) -->
+<a href="https://github.com/iamnicat">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamnicat&zsh-theme&show_icons=true&theme=radical"/>
+</a>
 
 ### Connect with me:
 [<img align="left" alt="iamnicat | LinkedIn" width="32px" src="https://img.icons8.com/color/144/000000/linkedin.png" />][linkedin]
