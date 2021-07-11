@@ -9,7 +9,7 @@ I am a Flutter Developer in Baku, Azerbaijan. I have 1+ years in deep expertise 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnicat&show_icons=true&theme=radical)](https://github.com/iamnicat/github-readme-stats)
+[(https://github-readme-stats.vercel.app/api?username=iamnicat&show_icons=true&theme=radical)](https://github.com/iamnicat/github-readme-stats)
 
 
 ### Connect with me:
