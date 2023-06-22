@@ -1,7 +1,3 @@
 ### Hey, I am Nijat 👋
 
-I am a Flutter Developer in Baku, Azerbaijan. 
-
-I am a motivated young man who is intertwined with technology, who is open to innovations and hungry for learning. 
-
-I have 2 years in deep expertise in Flutter/Dart development. During this time I have developed apps for both freelances and  in the company (Mainly for Startups). I have developed apps like as e-commerce, social media, delivery apps etc. I discovered what Flutter can do and now I know Flutter's power.
+As a motivated Flutter/Dart developer with 3+ years of experience, I have developed a wide range of apps, including e-commerce, social media, delivery, and more. My expertise extends to fintech, medtech, and other industries. By leveraging the power of Flutter and Dart, I deliver efficient and user-friendly solutions, constantly staying up-to-date with the latest trends and technologies. I am driven by innovation and thrive on pushing boundaries in app development.
